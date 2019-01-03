@@ -1,0 +1,9 @@
+<?xml version ="1.0" encoding = "utf-8" ?>
+<selector xmlns:xmlxs="http://schemas.android.com/apk/res/android" xmlxs:">
+  <!--When Selectd, use grey -->
+<item
+     xmlxs:drawable="@drawable/ic_tab_l"
+     xmlxs:state_selected="true/">
+  <!--when select, use white -->
+<item
+     xmlxs:drawable"@drawable/ic_tab_2_wh"
